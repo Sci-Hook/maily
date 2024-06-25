@@ -1,5 +1,5 @@
 {
-    "name": "scihook-maily",
+    "name": "@sci-hook/maily",
     "version": "1.0.0",
     "description": "E-mail schema system for Sci-Hook systems",
     "main": "./build/index.js",
