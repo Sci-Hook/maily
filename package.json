@@ -8,6 +8,9 @@
         "test": "nodemon ./build/index.js"
     },
     "author": "emirhan@scihook.org",
+    "publishConfig": {
+	"registry": "https://npm.pkg.github.com/@Sci-Hook"
+    },
     "dependencies": {
         "@types/nodemailer": "^6.4.15",
         "cheerio": "^1.0.0-rc.12",
