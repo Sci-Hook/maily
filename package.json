@@ -8,7 +8,6 @@
         "test": "nodemon ./build/index.js"
     },
     "author": "emirhan@scihook.org",
-    "license": "MIT",
     "dependencies": {
         "@types/nodemailer": "^6.4.15",
         "cheerio": "^1.0.0-rc.12",
